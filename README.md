@@ -23,9 +23,5 @@ Technologies/Frameworks used here :
 
 
 
-Demo
-====
-
-Fiddle around with demo : [LookAround Demo App ](http://lookaround.herokuapp.com/)
 
 
